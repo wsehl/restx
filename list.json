@@ -1,0 +1,50 @@
+{
+  "1": {
+    "name": "Пицца",
+    "cost": 2000,
+    "description": "С грибами",
+    "img": "images/pizza.webp"
+  },
+  "2": {
+    "name": "Стейк",
+    "cost": 900,
+    "description": "Говяжий",
+    "img": "images/steak.webp"
+  },
+  "3": {
+    "name": "Салат Цезарь",
+    "cost": 500,
+    "description": "С криветками",
+    "img": "images/salad.webp"
+  },
+  "4": {
+    "name": "Паста",
+    "cost": 1500,
+    "description": "С помидорами",
+    "img": "images/pasta.webp"
+  },
+  "5": {
+    "name": "Брускетта",
+    "cost": 750,
+    "description": "С листьями салата",
+    "img": "images/brusket.webp"
+  },
+  "6": {
+    "name": "Гренки",
+    "cost": 900,
+    "description": "Чесночные",
+    "img": "images/grenki.webp"
+  },
+  "7": {
+    "name": "Ассорти",
+    "cost": 3500,
+    "description": "Рыбное",
+    "img": "images/fish.webp"
+  },
+  "8": {
+    "name": "Гаспачо",
+    "cost": 1600,
+    "description": "Подается с помидорами",
+    "img": "images/gaspacho.webp"
+  }
+}

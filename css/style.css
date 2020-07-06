@@ -1,0 +1,60 @@
+.pic {
+  background: url(../images/bg.webp) no-repeat;
+  background-size: cover;
+  opacity: 1;
+  text-shadow: 0 2px 0 0px hsl(0, 0%, 0%), 0 3px 2px 0px hsla(0, 0%, 0%, 0.5);
+}
+
+a.active {
+  color: #ff5783;
+}
+
+.map {
+  height: 600px;
+  position: relative;
+}
+
+#map {
+  position: absolute;
+  z-index: -1;
+}
+
+.map .container {
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+
+.plate {
+  background-color: #fff;
+  padding: 32px;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.14);
+}
+
+.plate a {
+  color: #333333;
+  display: block;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.plate a:first-of-type {
+  margin-bottom: 24px;
+}
+
+.main-cart img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 75px;
+}
+
+.main-cart {
+  margin-top: 35px;
+  margin-left: 50px;
+}
+
+.navbar-item a:hover {
+  text-decoration: none;
+}
